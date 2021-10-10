@@ -13,7 +13,6 @@ public class MedievalBattleApplication {
 
         BattleShip battleShip = new BattleShip();
         System.out.println(battleShip.rearrangeTeamToWin(t1List, t2List));
-
     }
 
 }
